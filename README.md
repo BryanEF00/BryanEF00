@@ -2,9 +2,17 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="400px" />
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.efernandes@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanef)](https://www.linkedin.com/in/bryanef/)
-![Profile Views](https://komarev.com/ghpvc/?username=BryanEF00&color=blue&style=for-the-badge)
+<div>
+  <a href="mailto:bryan.efernandes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bryanef" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanef" alt="LinkedIn"/>
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=BryanEF00&color=blue&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=BryanEF00&color=blue&style=for-the-badge" alt="Profile Views" />
+  </a>
+</div>
 
 ## About Me
 My name is **Bryan Edward Fernandes**. <br/>
