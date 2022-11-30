@@ -1,13 +1,16 @@
 # Hello There! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="40px" height="40px" />
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="400px" />
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan.efernandes@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanef)](https://www.linkedin.com/in/bryanef/)
 ![Profile Views](https://komarev.com/ghpvc/?username=BryanEF00&color=blue&style=for-the-badge)
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="450px" />
-
 ## About Me
-I've recently finished Trybe's Full Stack Web Developer Course and motivated by the challenge, i've decided to focus my studies on **Frontend**. 
+My name is **Bryan Edward Fernandes**. <br/>
+I'm 22 years old and currently live in Santa Bárbara d'Oeste - São Paulo, Brasil.
+
+I've, recently, finished Trybe's Full Stack Web Developer course and motivated by the challenge, i've decided to focus my studies on the **Frontend Development**. 
 
 So, currently i'm improving my knowledge on **React**, **Typescript** and **CSS**.
 
@@ -18,6 +21,7 @@ So, currently i'm improving my knowledge on **React**, **Typescript** and **CSS*
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![RTL](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -38,9 +42,9 @@ So, currently i'm improving my knowledge on **React**, **Typescript** and **CSS*
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="199" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEF00&layout=compact&theme=github_dark" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEF00&layout=compact&theme=github_dark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="199" src="https://github-readme-stats.vercel.app/api?username=BryanEF00&count_private=true&show_icons=true&theme=github_dark" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=BryanEF00&count_private=true&show_icons=true&theme=github_dark" />
   </a>
 </div>
