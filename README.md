@@ -42,9 +42,9 @@ So, currently i'm improving my knowledge on **React**, **Typescript** and **CSS*
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEF00&layout=compact&theme=github_dark" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanEF00&layout=compact&theme=github_dark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=BryanEF00&count_private=true&show_icons=true&theme=github_dark" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=BryanEF00&count_private=true&show_icons=true&theme=github_dark" />
   </a>
 </div>
